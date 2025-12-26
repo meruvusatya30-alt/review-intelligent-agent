@@ -1,0 +1,18 @@
+[
+  {
+    "topic_id": 1,
+    "topic_name": "Delivery partner rude behavior",
+    "representative_text": "Delivery boy shouted at me",
+    "embedding": [0.021, -0.334, 0.118, ...],
+    "created_at": "2024-06-01",
+    "frequency": 3
+  },
+  {
+    "topic_id": 2,
+    "topic_name": "Food quality issues",
+    "representative_text": "Food quality was poor",
+    "embedding": [0.145, -0.221, 0.087, ...],
+    "created_at": "2024-06-01",
+    "frequency": 1
+  }
+]
